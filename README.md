@@ -14,7 +14,7 @@
 ## Installation :
 
 
-	pip install pyttsx3
+	pip3 install pyttsx3
 
 > If you get installation errors , make sure you first upgrade your wheel version using :  
 `pip install --upgrade wheel`
